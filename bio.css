@@ -1,0 +1,22 @@
+body{
+
+	font-size: 20px ;
+	background-color:#ADD8E6;
+	font-family:"Arial";
+}
+
+h1{
+	font-size: 60px;
+	color:#FFFAFF;
+	text-align:center ;
+	background-color:#990033;
+	padding: 15px;
+	font-family: sans-serif, "Arial", "Open Sans";
+
+}
+
+h2{
+
+font-size:40px;
+font-family: "Arial", sans-serif, "Open Sans";
+}
